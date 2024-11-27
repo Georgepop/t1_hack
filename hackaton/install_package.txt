@@ -1,0 +1,7 @@
+Django
+djangorestframework
+drf-spectacular
+drf-spectacular-sidecar
+gunicorn
+psycopg2
+python-dotenv
